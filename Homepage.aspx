@@ -5,7 +5,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
         <div>
-            <h1>Welcome!</h1>
+            <h1 style="text-align:center;">Welcome!</h1>
 
         </div>
 </asp:Content>
